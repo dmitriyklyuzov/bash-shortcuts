@@ -1,4 +1,4 @@
 # bash & zsh shortcuts
 
 ## Installation
-clone the repo and merge the contents of .zprofile with your existing .zprofile
+merge the [contents of .zprofile](https://raw.githubusercontent.com/dmitriyklyuzov/bash-shortcuts/refs/heads/main/.zprofile) with your existing .zprofile
